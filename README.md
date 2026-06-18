@@ -1,35 +1,69 @@
-# ipl_stats_app
-A cricket analytics app offering IPL team stats, player performance tracking, live match updates, and intelligent predictions using AI and machine learning.
+-> IPL Stats & Analytics ( UNDER DEVELOPMENT )
 
-IPL Stats & Analytics – Android Application (Java)
+An Android application that provides detailed IPL team and player analytics, live match insights, and AI-powered performance predictions. The app leverages a Spring Boot backend and PostgreSQL database to process and serve cricket statistics, enabling users to explore historical data, compare teams, track player performance, and gain data-driven insights.
 
-This Android application provides a comprehensive analytics platform for exploring detailed statistics of Indian Premier League (IPL) teams and players. Built using Java, the app is designed to deliver accurate insights, performance tracking, and predictive analysis for cricket enthusiasts.
+-> HERE ARE SOME SCREENSHOTS FROM TESTING OF APP
+ <p align="center">
+<img width="240"  src="https://github.com/user-attachments/assets/0e19896f-3ff7-40b9-9d6e-bb28237135a1" />
+<img width="240" src="https://github.com/user-attachments/assets/4e3d26ed-5b25-4ace-bfd7-c99a55aeb60f" />
+ </p>
 
-Key Features
---Team Analytics
-  -Complete match history and performance breakdown
-  -Total runs, win/loss records, and season-wise performance
-  -Head-to-head (Team vs Team) comparisons
-  -Historical trends and consistency analysis
---Player Statistics
-  -Detailed career stats including batting average, strike rate, centuries, half-centuries, and wickets
-  -Match-by-match performance insights
-  -Current form and recent performance tracking
-  -Season-wise analysis for individual players
---Live Match Insights
-  -Real-time match updates and scores
-  -Dynamic performance tracking during live matches
---AI & Machine Learning Integration
-  -Predictive analysis for match outcomes
-  -Player and team performance predictions based on historical data
-  -Smart insights derived from past trends and statistical models
---Additional Highlights
-  -Clean and user-friendly Android UI
-  -Efficient data handling and structured presentation
-  -Scalable architecture for adding future features
-  -Focus on accuracy and data-driven insights
---Future Enhancements (Optional to include in repo)
-  -Push notifications for live matches
-  -Advanced visualization (graphs, charts)
-  -User personalization and favorite teams/players
-  -API integration for real-time data updates
+<p align="center">
+<img width="240"  src="https://github.com/user-attachments/assets/06fbf9e5-3229-4e8e-9259-5240d8586bf6" />
+<img width="240"  src="https://github.com/user-attachments/assets/be5a4fc0-4c13-4be4-87e9-90c2b691248b" />
+</p>
+
+
+-> Key Features
+
+* Team Performance Analytics
+* Player Statistics & Career Records
+* Head-to-Head Team Comparisons
+* Live Match Insights & Updates
+* AI-Powered Match Predictions
+* Historical Data Analysis
+* Season-wise Performance Tracking
+* REST API Integration
+* Clean & User-Friendly UI
+
+-> Mobile App
+
+* Java
+* Android SDK
+* Material Design
+
+-> Backend
+
+* Spring Boot
+* Spring Data JPA
+* REST APIs
+
+-> Database
+
+* PostgreSQL
+* SQL
+
+-> Other Tools
+
+* Machine Learning
+* Firebase
+* Gradle
+* Git & GitHub
+
+-> What I Learned
+
+* Android Application Development
+* Backend Development with Spring Boot
+* Database Design & SQL Query Optimization
+* REST API Development & Integration
+* PostgreSQL Database Management
+* Machine Learning Fundamentals
+* Real-time Data Processing
+* UI/UX Design Principles
+* Full-Stack Application Development
+
+This project demonstrates my ability to build a full-stack application by combining Android development, Spring Boot backend services, PostgreSQL database management, API integration, and data-driven analytics to deliver meaningful insights from large cricket datasets.
+
+
+
+
