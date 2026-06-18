@@ -6,9 +6,6 @@ An Android application that provides detailed IPL team and player analytics, liv
  <p align="center">
 <img width="240"  src="https://github.com/user-attachments/assets/0e19896f-3ff7-40b9-9d6e-bb28237135a1" />
 <img width="240" src="https://github.com/user-attachments/assets/4e3d26ed-5b25-4ace-bfd7-c99a55aeb60f" />
- </p>
-
-<p align="center">
 <img width="240"  src="https://github.com/user-attachments/assets/06fbf9e5-3229-4e8e-9259-5240d8586bf6" />
 <img width="240"  src="https://github.com/user-attachments/assets/be5a4fc0-4c13-4be4-87e9-90c2b691248b" />
 </p>
